@@ -1,0 +1,29 @@
+.plus{
+    padding-left: 4px;
+    left: 40%;
+    margin-left: 24rem;
+    margin-top: 1rem;
+}
+
+.edit {
+    margin-left: 2px;
+    size: 2px;
+}
+
+.card{
+   margin: 0.75rem;
+}
+
+.drop{
+    margin-left: 25.5rem;
+    height: 1rem;
+}
+
+.bin{
+    margin-left: 24.5rem;
+}
+
+.TaskEdit{
+    margin-left: 1rem;
+    
+}
