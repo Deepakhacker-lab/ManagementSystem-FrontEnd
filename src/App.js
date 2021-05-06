@@ -8,7 +8,7 @@ function App() {
   return (
     <Fragment>
       <UserPage />
-        <Feed />
+      <Feed />
     </Fragment>
   );
 }
